@@ -1,4 +1,4 @@
-# AlphaAnywhereSimpleHelloWorld
+# EmoHelloWorld
 This is a simple hello world application created using Alpha Anywhere.
 
 # How to Download and Install this Project
